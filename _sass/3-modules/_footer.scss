@@ -200,6 +200,21 @@
   }
 }
 
+/*jsedit blank footer class for homepage */
+.footer__blank {
+  padding: 40px 0;
+
+  .footer__info-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    padding: 40px 0;
+  }
+}
+
 .copyright {
   margin-right: 20px;
   font-size: 14px;
