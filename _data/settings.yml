@@ -49,8 +49,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Jagjit Singh
-  hero__description: Hi, nice to meet you!
+  hero__title: Hi, I'm Jagjit. This is where you'll find my personal projects, portfolio, and photography. 
+  hero__description: 
   hero__image: '/images/headshot.jpeg'
 
 
