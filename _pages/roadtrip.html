@@ -1,52 +1,32 @@
 ---
 layout: default
 title: Road Trip
-permalink: /roadtrip/
+description: In 2022 I road tripped across the US. Here are some pictures and stories!
 ---
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
 
-<!-- begin tags -->
-<section class="tags">
-
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-
-    <div class="tags__inner is-hidden" id="{{ this_word | cgi_escape }}">
-    
-      <div class="container">
-        <div class="row">
-          <div class="col col-12">
-            <div class="tag__info">
-              <h2 class="tag__name">{{ this_word }}</h2>
-              <div class="tag__counter">{{ site.tags[this_word].size }} {% if site.tags[page.tag].size < 2 %}HELLO CAN U SEE THIS?!Post{% else %}Posts{% endif %}</div>
-            </div>
-          </div>
-        </div>
+<div class="container">
+  <div class="row">
+    <div class="col col-8 push-2 col-t-12 push-t-0">
+      <div class="page-head">
+        <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.blog__settings.blog__title }}{% endif %}</h1>
+        {% if page.description %}
+          <p class="page-description">{{ page.description }}</p>
+        {% else site.data.settings.blog__settings.blog__description %}
+          <p class="page-description">{{ site.data.settings.blog__settings.blog__description }}</p>
+        {% endif %}
       </div>
-
-      <div class="container animate">
-        <div class="row">
-          {% for post in site.tags[this_word] %}
-            {% if post.title != null %}
-              {% include article.html %}
-            {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-
     </div>
+  </div>
+</div>
 
-    {% endunless %}
-  {% endfor %}
+<div class="container animate">
+  <div class="row">
+    {% if site.posts.size > 0 %}
+      {% for post in paginator.posts offset:0 %}
+        {% include article.html %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
 
-</section>
-<!-- end tags -->
-
-<script>
-  var tag_name = window.location.search.replace("?tag=", "#");
-  if (tag_name) {
-      var el = document.querySelector(tag_name);
-      el.classList.remove("is-hidden");
-    }
-</script>
+{% include pagination.html %}
