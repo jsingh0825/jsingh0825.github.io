@@ -17,7 +17,8 @@
   </main>
   <!-- end content -->
 
-  {% include footer.html %}
+  if(document.URL.indexOf("index.html") = 0)
+    {% include footer.html %}
 
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
