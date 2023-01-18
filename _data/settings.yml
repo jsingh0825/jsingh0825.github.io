@@ -17,7 +17,7 @@ menu__settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Road Trip'
-      url: '/roadtrip'
+      url: '/roadtrip/'
     - title: 'Pages'
       submenu:
       - url: '/about/'
@@ -31,9 +31,9 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jagjit Singh
-  author__bio: Nice to met you!
-  author__avatar: '/images/headshot.jpeg'
+  author__name: Bottom Text
+  author__bio: Bottom descrip
+  author__avatar: '/images/01-1.jpg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -49,9 +49,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Bottom Page Text
-  hero__description: Description goes here.
-  hero__image: '/images/01-1.jpg'
+  hero__title: Jagjit Singh
+  hero__description: Hi, nice to meet you!
+  hero__image: '/images/headshot.jpeg'
 
 
 #-------------------------------
