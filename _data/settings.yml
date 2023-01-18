@@ -31,16 +31,16 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Bottom Text
-  author__bio: Bottom descrip
-  author__avatar: '/images/01-1.jpg'
+  author__name: Jagjit Singh
+  author__bio: 
+  author__avatar: '/images/headshot.jpeg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-github", link: "https://github.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -71,85 +71,85 @@ projects__settings:
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: What clients say
-testimonial__description:
+# testimonial__title: What clients say
+# testimonial__description:
 
-testimonial__items:
-  - name: "Aspen Carder"
-    image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+# testimonial__items:
+#   - name: "Aspen Carder"
+#     image: "/images/client-1.jpg"
+#     designation: "Lettering Artist"
+#     link: "https://twitter.com/"
+#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Lydia Siphron"
-    image: "/images/client-2.jpg"
-    designation: "Designer"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#   - name: "Lydia Siphron"
+#     image: "/images/client-2.jpg"
+#     designation: "Designer"
+#     link: "https://facebook.com/"
+#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Craig Vaccaro"
-    image: "/images/client-3.jpg"
-    designation: "Web developer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#   - name: "Craig Vaccaro"
+#     image: "/images/client-3.jpg"
+#     designation: "Web developer"
+#     link: "https://twitter.com/"
+#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Anika Calzoni"
-    image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#   - name: "Anika Calzoni"
+#     image: "/images/client-4.jpg"
+#     designation: "Lettering Artist"
+#     link: "https://facebook.com/"
+#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Marcus Botosh"
-    image: "/images/client-5.jpg"
-    designation: "Full Stack Designer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+#   - name: "Marcus Botosh"
+#     image: "/images/client-5.jpg"
+#     designation: "Full Stack Designer"
+#     link: "https://twitter.com/"
+#     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 
 #-------------------------------
 # Blog Section
-blog__settings:
-  blog__title: Recent Posts
-  blog__description:
+# blog__settings:
+#   blog__title: Recent Posts
+#   blog__description:
 
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+# gallery:
+#   gallery__images:
+#     - alt: 'Rest'
+#       url: '/images/gallery-1.jpg'
+#     - alt: 'Lifestyle'
+#       url: '/images/gallery-2.jpg'
+#     - alt: 'Hobby'
+#       url: '/images/gallery-3.jpg'
+#     - alt: 'Notes'
+#       url: '/images/gallery-4.jpg'
 
 
 #-------------------------------
 # Footer Navigation Settings
-footer_menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+# footer_menu__settings:
+#   menu__items:
+#     - title: 'Home'
+#       url: '/'
+#     - title: 'Projects'
+#       url: '/projects/'
+#     - title: 'Blog'
+#       url: '/blog/'
+#     - url: '/about/'
+#       title: 'About'
+#     - url: '/contact/'
+#       title: 'Contact'
+#     - url: '/elements/'
+#       title: 'Elements'
 
 
 #-------------------------------
 # Contact Settings
-contact:
-  email: your@email.com # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+# contact:
+#   email: your@email.com # Add your form_id
+#   description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -157,9 +157,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+#google-analytics: # Add your GA Tracking Id
