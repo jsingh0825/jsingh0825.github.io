@@ -3,7 +3,7 @@
 title: Jagjit
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Personal site and portfolio for Jagjit Singh.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -13,18 +13,18 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: '/temp-projects/'
+      url: '/projects/'
     - title: 'Blog'
-      url: '/temp-blog/'
+      url: '/blog/'
     - title: 'Road Trip'
-      url: '/temp-roadtrip/'
+      url: '/roadtrip/'
     - title: 'Pages'
       submenu:
-      - url: '/temp-about/'
+      - url: '/about/'
         title: 'About'
-      - url: '/temp-contact/'
+      - url: '/contact/'
         title: 'Contact'
-      - url: '/temp-elements/'
+      - url: '/elements/'
         title: 'Elements'
 
 
