@@ -7,24 +7,24 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 
 
 #-------------------------------
-# Navigation Settings
+# Navigation Settings (UN TEMP THESE)
 menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/temp-projects/'
     - title: 'Blog'
-      url: '/blog/'
+      url: '/temp-blog/'
     - title: 'Road Trip'
-      url: '/roadtrip/'
+      url: '/temp-roadtrip/'
     - title: 'Pages'
       submenu:
-      - url: '/about/'
+      - url: '/temp-about/'
         title: 'About'
-      - url: '/contact/'
+      - url: '/temp-contact/'
         title: 'Contact'
-      - url: '/elements/'
+      - url: '/temp-elements/'
         title: 'Elements'
 
 
