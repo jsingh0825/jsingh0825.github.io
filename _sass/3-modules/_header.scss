@@ -399,7 +399,8 @@
 /* Toggle Theme */
 .toggle-theme {
   position: relative;
-  display: flex;
+/* jsedit 19JAN23 changed display from flex to none to hide the dark mode toggle */
+  display: none;
   justify-content: center;
   align-items: center;
   width: 44px;
