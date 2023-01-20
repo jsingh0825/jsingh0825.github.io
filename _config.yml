@@ -28,9 +28,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  roadtrip:
-    output: true
-    permalink: /roadtrip/:slug 
 
 # Pages Path
 defaults:
