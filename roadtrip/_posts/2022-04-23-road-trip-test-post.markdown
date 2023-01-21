@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  The way to get started is to quit talking and begin doing 2
-description: Bring to the table win-win srvival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2020-04-23 15:02:35 +0300
-image:  '/images/15.jpg'
-tags:   [fashion, study]
+title:  This is a roadtrip post
+category: roadtrip 
+description: road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip 
+date:   2022-04-23 15:01:35 +0300
+image:  '/images/headshot.jpeg'
+tags:   [fashion, study, travel]
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+In qua quid est boni summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
