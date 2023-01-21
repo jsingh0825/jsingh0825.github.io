@@ -27,10 +27,11 @@ body {
   }
 }
 
+/* jsedit 21JAN23 removing text select color since its a little clashy
 *::selection {
   color: var(--dark);
   background-color: var(--brand-color);
-}
+} */
 
 h1,
 h2,

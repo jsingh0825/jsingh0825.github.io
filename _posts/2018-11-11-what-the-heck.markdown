@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  A journey of a thousand leagues begins beneath one’s feet
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2020-11-09 15:01:35 +0300
-image:  '/images/06.jpg'
-tags:   [travel, story, rest]
+title:  post title
+description: this is the description
+date:   2020-11-11
+image:  '/images/headshot.jpeg'
+tags:  
+category: roadtrip
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
@@ -13,17 +14,16 @@ Podcasting operational change management inside of workflows to establish a fram
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/06-1.jpg" loading="lazy" alt="City">
+    <img src="/images/04-1.jpg" loading="lazy" alt="Car">
   </div>
-  <em>Photo by <a href="https://unsplash.com/photos/-VdxocSceF0" target="_blank">Jalen Terry</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Photo by <a href="https://unsplash.com/photos/J-hcCjSuPm4" target="_blank">Andre Tan</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/06-2.jpg" loading="lazy" alt="Sea">
-    <img src="/images/06-3.jpg" loading="lazy" alt="San Francisco">
+    <img src="/images/04-5.jpg" loading="lazy" alt="Sea">
+    <img src="/images/04-3.jpg" loading="lazy" alt="San Francisco">
   </div>
 </div>
 
@@ -34,9 +34,9 @@ Completely synergize resource taxing relationships via premier niche markets. Pr
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/06-4.jpg" loading="lazy" alt="City">
+    <img src="/images/04-4.jpg" loading="lazy" alt="Woman">
   </div>
-  <em>Photo by <a href="https://unsplash.com/photos/3xpalrYpiwo" target="_blank">Nick Dunlap</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Photo by <a href="https://unsplash.com/photos/2smDZopBMso" target="_blank">Brandon Nelson</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.

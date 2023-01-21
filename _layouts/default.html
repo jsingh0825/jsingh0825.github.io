@@ -9,7 +9,11 @@
     {% include google-analytics.html %}
   {% endif %}
 
-  {% include header.html %}
+  {% if page.category != 'roadtrip' %}
+    {% include header.html %}
+  {% else %}
+    &nbsp;  
+  {% endif %}
 
   <!-- begin content -->
   <main class="content" aria-label="Content">

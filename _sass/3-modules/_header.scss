@@ -144,7 +144,8 @@
 .main-nav__box {
   display: flex;
   align-items: center;
-
+  /* jsedit 21JAN23 adjusting to offset the hidden dark mode toggle below */
+  padding-right: 50px;
   .nav__icon-close {
     display: none;
     justify-content: center;
