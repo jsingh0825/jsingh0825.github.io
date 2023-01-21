@@ -1,20 +1,156 @@
 ---
 layout: post
-title:  post title
-description: this is the description
-date:   2020-11-11
-image:  '/images/headshot.jpeg'
-tags:  
+title:  Big Bend
+description: "Headline: “Florida boy shocked at what mountain ranges look like”"
+date:   2022-03-07
+image:  '/images/bigbend/main.jpg'
+tags:  [march]
 category: roadtrip
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
+From Austin, I set out to explore Big Bend National Park and camp in Big Bend Ranch State Park nearby.
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+## Driving Into The Park
+
+[image gallery]
+
+## Emory Peak hike
+
+This is the longest hike I’ve ever done. Thanks to Jublani for recommending the trail!
+
+[image gallery]
+
+## Boquillas Canyon hike
+
+The flowering trees were audibly buzzing with bees! Also halfway down the trail there was a guy on a horse selling tamales
+
+[image gallery]
+
+## Crossing the border to Mexico
+
+I rode a burro into town and had cabrito tacos. After I ate them the owner of the restaurant told me cabrito is like the goat version of veal and I felt bad.
+
+[image gallery]
+
+## Leaving the parks for El Paso:
+
+[image gallery]
+
+Next up: White Sands National Park
+
+< back
+
+***
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+woah you scrolled all the way to the bottom! enjoy this bonus picture of me getting stuck in the sand at the campsite. with no one around for miles and no cell reception. it was a crash course in 4WD modes I tell ya.
+
+[image]
+
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/04-1.jpg" loading="lazy" alt="Car">
+    <img src="/images/headshot.jpeg" loading="lazy" alt="Car">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/J-hcCjSuPm4" target="_blank">Andre Tan</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -22,8 +158,8 @@ Podcasting operational change management inside of workflows to establish a fram
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/04-5.jpg" loading="lazy" alt="Sea">
-    <img src="/images/04-3.jpg" loading="lazy" alt="San Francisco">
+    <img src="/images/headshot.jpeg" loading="lazy" alt="Sea">
+    <img src="/images/headshot.jpeg" loading="lazy" alt="San Francisco">
   </div>
 </div>
 
@@ -34,7 +170,7 @@ Completely synergize resource taxing relationships via premier niche markets. Pr
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/04-4.jpg" loading="lazy" alt="Woman">
+    <img src="/images/headshot.jpeg" loading="lazy" alt="Woman">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/2smDZopBMso" target="_blank">Brandon Nelson</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
