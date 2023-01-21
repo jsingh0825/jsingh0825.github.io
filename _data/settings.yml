@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Jagjit
+title: jagj.it
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Personal site and portfolio for Jagjit Singh.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,8 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/roadtrip/'
+    - title: 'Resume'
+      url: '/resume/'
+    - title: 'Road Trip'
+      url:  '/roadtrip/'
 
 
 #-------------------------------
@@ -37,7 +39,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello! I'm Jagjit Singh, and this is where you'll find my personal projects, portfolio, and photography. 
+  hero__title: Hello! I'm Jagjit Singh, and this is where you'll find my resume, photography, and portfolio (soon!).
   hero__description: 
   hero__image: '/images/headshot.jpeg'
 
