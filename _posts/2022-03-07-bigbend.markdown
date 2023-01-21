@@ -3,17 +3,25 @@ layout: post
 title:  Big Bend
 description: "Headline: “Florida boy shocked at what mountain ranges look like”"
 date:   2022-03-07
-image:  '/images/bigbend/main.jpg'
+image:  '/images/bigbend/bigbend-main.jpg'
 tags:  [march]
 category: roadtrip
 ---
 
 From Austin, I set out to explore Big Bend National Park and camp in Big Bend Ranch State Park nearby.
 
+&nbsp;  
 ## Driving Into The Park
 
-[image gallery]
+![bigbend]({{site.baseurl}}/images/bigbend/bigbend-1.jpg#wide)
 
+![bigbend]({{site.baseurl}}/images/bigbend/bigbend-2.jpg#wide)
+
+![bigbend]({{site.baseurl}}/images/bigbend/bigbend-3.jpg#wide)
+
+![bigbend]({{site.baseurl}}/images/bigbend/bigbend-4.jpg#wide)
+
+&nbsp;  
 ## Emory Peak hike
 
 This is the longest hike I’ve ever done. Thanks to Jublani for recommending the trail!
@@ -150,16 +158,28 @@ woah you scrolled all the way to the bottom! enjoy this bonus picture of me gett
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/headshot.jpeg" loading="lazy" alt="Car">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
+    <img src="/images/headshot.jpeg" loading="lazy">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/J-hcCjSuPm4" target="_blank">Andre Tan</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
+
+![Beach]({{site.baseurl}}/images/headshot.jpeg#wide)
+
+![Beach]({{site.baseurl}}/images/headshot.jpeg#wide)
+
+![Beach]({{site.baseurl}}/images/headshot.jpeg#wide)
 
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/headshot.jpeg" loading="lazy" alt="Sea">
-    <img src="/images/headshot.jpeg" loading="lazy" alt="San Francisco">
   </div>
 </div>
 
