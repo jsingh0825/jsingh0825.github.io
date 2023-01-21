@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Road Trip
-description: In 2022 I road tripped across the US. Here are some pictures and stories! THIS IS THE CURRENT PAGE
+description: In 2022 I road tripped across the US. Here are some pictures and stories! 
 ---
 
 <div class="container">
@@ -23,7 +23,9 @@ description: In 2022 I road tripped across the US. Here are some pictures and st
   <div class="row">
     {% if site.posts.size > 0 %}
       {% for post in site.posts offset:0 %}
-        {% include article.html %}
+        {% if post.categories contains 'roadtrip' %}
+          {% include article.html %}
+        {% endif %}
       {% endfor %}
     {% endif %}
   </div>

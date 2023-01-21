@@ -2,7 +2,7 @@
 layout: post
 title:  This is a roadtrip post
 category: roadtrip 
-description: road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip road trip 
+description: descrip 
 date:   2022-04-23 15:01:35 +0300
 image:  '/images/headshot.jpeg'
 tags:   [Road Trip, study, travel]
