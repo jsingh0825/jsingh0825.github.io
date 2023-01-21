@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Everything has beauty, but not everyone can see
+category: roadtrip 
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2020-05-29 18:05:55 +0300
 image:  '/images/12.jpg'
