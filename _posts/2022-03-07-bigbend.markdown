@@ -23,7 +23,6 @@ Headline: “Florida boy shocked at what mountain ranges look like”
 
 ![bigbend]({{site.baseurl}}/images/bigbend/bigbend-4.jpg#wide)
 
-&nbsp;  
 ## Emory Peak hike
 
 This is the longest hike I’ve ever done. Thanks to Jublani for recommending the trail!

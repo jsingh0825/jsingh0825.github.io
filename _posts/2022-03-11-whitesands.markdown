@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  White Sands
+title:  White Sands & Saguaro
 description: After Big Bend, I left Texas for New Mexico to check out White Sands, and then made my way over to Arizona.
 date:   2022-03-11
 image:  '/images/bigbend/bigbend-2.jpg'
@@ -8,7 +8,7 @@ tags:  [march]
 category: roadtrip
 ---
 
-From Austin, I set out to explore Big Bend National Park and camp in Big Bend Ranch State Park nearby.
+After Big Bend, I left Texas for New Mexico to check out White Sands, and then made my way over to Arizona.
 
 &nbsp;  
 ## Driving into the park
