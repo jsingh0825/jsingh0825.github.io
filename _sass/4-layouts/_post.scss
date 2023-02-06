@@ -145,7 +145,7 @@
   }
 
   img, .js-reframe {
-    border-radius: 8px;
+    border-radius: 0;
     overflow: hidden;
 
     &.lightense-open {
@@ -159,7 +159,7 @@
     max-width: none;
     margin-left: 50%;
     transform: translateX(-50%);
-    border-radius: 0;
+    border-radius: 0px;
     pointer-events: none;
     user-select: none;
   }
