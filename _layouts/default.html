@@ -21,7 +21,11 @@
   </main>
   <!-- end content -->
 
-  {% include footer.html %}
+  {% if page.title == 'The Las Vegas Valley' %}
+   {% include afterdark.html %}
+  {% else %}
+    {% include footer.html %}
+  {% endif %}
 
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
