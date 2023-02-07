@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Big Bend
-description: "Headline: “Florida boy shocked at what mountains look like”"
+description: From Austin, I set out to explore Big Bend National Park and camp in Big Bend Ranch State Park nearby.
 date:   2022-03-07
-image:  '/images/bigbend/bigbend-2.jpg'
+image:  '/images/bigbend/bigbend-10.jpg'
 tags:  [march]
 category: roadtrip
 ---
@@ -77,7 +77,7 @@ I rode a burro into town and had cabrito tacos. After I ate them the owner of th
 
 ![bigbend]({{site.baseurl}}/images/bigbend/bigbend-24.jpg#wide)
 
-Next up: White Sands National Park!
+Coming soon: White Sands National Park!
 
 <a href="{{site.baseurl}}/roadtrip">&lt; back</a>
 
