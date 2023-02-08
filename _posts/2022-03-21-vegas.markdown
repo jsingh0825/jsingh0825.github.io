@@ -10,7 +10,6 @@ category: roadtrip
 
 The plan was to head to Utah after Arizona - it was still well quite cold in Bryce and Zion so I went to Nevada instead.
 
-&nbsp;  
 ## The Hoover Dam and Lake Mead
 
 I stopped by the Hoover Dam. It’s huge! An incredible feat of engineering*. That evening I drove into the hills, camping on Lake Mead nearby and enjoying a sunset over the Las Vegas Bay.
@@ -24,7 +23,6 @@ I stopped by the Hoover Dam. It’s huge! An incredible feat of engineering*. Th
 ![vegas]({{site.baseurl}}/images/vegas/vegas-4.jpg#wide)
 
 ![vegas]({{site.baseurl}}/images/vegas/vegas-5.jpg#wide)
-
 
 ## Red Rock Canyon
 
