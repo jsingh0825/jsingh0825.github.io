@@ -165,6 +165,6 @@ Coming soon: Phoenix and the Grand Canyon!
 
 …here’s the video I was taking when I fell down the dune
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/I8bl7_XEISg" title="YouTube video player" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="100%" src="https://www.youtube.com/embed/I8bl7_XEISg" title="YouTube video player" frameborder="0" allowfullscreen></iframe></p>
 
 &nbsp;  
