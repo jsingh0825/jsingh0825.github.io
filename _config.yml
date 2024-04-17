@@ -24,7 +24,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /roadtrip/:slug
   projects:
     output: true
     permalink: /project/:slug

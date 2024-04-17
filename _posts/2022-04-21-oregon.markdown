@@ -24,8 +24,6 @@ text!
 
 ![oregon]({{site.baseurl}}/images/oregon/oregon-5.jpg#wide)
 
-![oregon]({{site.baseurl}}/images/oregon/oregon-6.jpg#wide)
-
 ![oregon]({{site.baseurl}}/images/oregon/oregon-7.jpg#wide)
 
 ## More Snow, Different Lake
