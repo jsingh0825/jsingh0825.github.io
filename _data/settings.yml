@@ -20,7 +20,7 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jagjit Singh test
+  author__name: Jagjit Singh
   author__bio: 
   author__avatar: '/images/headshot.jpeg'
 
@@ -38,7 +38,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello! I'm Jagjit, and this is where you'll find my resume, photography, and portfolio (soon!).
+  hero__title: TEST Hello! I'm Jagjit, and this is where you'll find my resume, photography, and portfolio (soon!).
   hero__description: 
   hero__image: '/images/headshot.jpeg'
 
