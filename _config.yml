@@ -22,7 +22,7 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-      posts:
+  posts:
     output: false
     permalink: /roadtrip/:slug
 

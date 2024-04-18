@@ -38,9 +38,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: TEST Hello! I'm Jagjit, and this is where you'll find my resume, photography, and portfolio (soon!).
+  hero__title: Hello! I'm Jagjit, and this is where you'll find a collection of my personal projects and resume.
   hero__description: 
-  hero__image: '/images/headshot.jpeg'
+  hero__image: '/images/pfps/headshot.jpeg'
 
 
 #-------------------------------

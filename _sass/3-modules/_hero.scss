@@ -31,41 +31,50 @@
   }
 }
 
-.hero__image {
-  position: relative;
-  transform: translate(0);
-  width: 100%;
-  height: 634px;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
-  background-color: var(--background-alt-color);
-  user-select: none;
+// .hero__image {
+//   position: relative;
+//   transform: translate(0);
+//   width: 100%;
+//   height: 634px;
+//   border-radius: 12px;
+//   overflow: hidden;
+//   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
+//   // background-color: var(--background-alt-color);
+//   user-select: none;
 
-  img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+//   img {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     width: 100%;
+//     height: 100%;
+//     object-fit: cover;
+//   }
 
-  @media only screen and (max-width: $wide) {
-    height: 484px;
-  }
+//   @media only screen and (max-width: $wide) {
+//     height: 484px;
+//   }
 
-  @media only screen and (max-width: $desktop) {
-    height: 440px;
-  }
+//   @media only screen and (max-width: $desktop) {
+//     height: 440px;
+//   }
 
-  @media only screen and (max-width: $tablet) {
-    height: 420px;
-  }
+//   @media only screen and (max-width: $tablet) {
+//     height: 420px;
+//   }
 
-  @media only screen and (max-width: $mobile) {
-    height: 280px;
-  }
+//   @media only screen and (max-width: $mobile) {
+//     height: 280px;
+//   }
+// }
+
+.hero__image .profile-pic {
+    width: 75%;        /* Adjust size as needed */
+    height: 75%;       /* Make height equal to the width to maintain aspect ratio */
+    border-radius: 50%;  /* Create circular corners */
+    object-fit: cover;   /* Ensure the image covers the space without distortion */
+    display: block;      /* Ensures the image is block level to center it correctly */
+    margin: 0 auto;      /* Center the image horizontally */
 }
 
 .hero__right {

@@ -1,4 +1,8 @@
 <!-- begin hero -->
+<script>
+    var imagePaths = {{ site.data.images | jsonify }};
+</script>
+
 <section class="hero">
   <div class="container">
     <div class="row">
@@ -6,8 +10,9 @@
         <div class="hero__inner">
 
           <div class="hero__left">
-            <div class="hero__image">
-              <img class="lazy" data-src="{{ site.data.settings.hero.hero__image }}" alt="{{site.data.settings.author.author__name}}'s Picture">
+            <div class="hero__image" data-images="{{ site.data.images | jsonify }}">
+              <!-- <img class="lazy" data-src="{{ site.data.settings.hero.hero__image }}" alt="{{site.data.settings.author.author__name}}'s Picture"> -->
+              <img class="lazy profile-pic" data-src="{{ site.data.settings.hero.hero__image }}" alt="{{ site.data.settings.author.author__name }}'s Picture">
             </div>
           </div>
 
@@ -21,4 +26,4 @@
     </div>
   </div>
 </section>
-<!-- end hero -->
+<!-- end hero --> 
