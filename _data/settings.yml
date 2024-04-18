@@ -12,11 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Projects'
+      url:  '/projects/'
     - title: 'Resume'
       url: '/resume/'
-    - title: 'Road Trip'
-      url:  '/roadtrip/'
-
 
 #-------------------------------
 # Author Settings

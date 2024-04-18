@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jagj.it" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -19,15 +19,12 @@ paginate_path: "/blog/page/:num"
 #-------------------------------
 # Collections
 collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /roadtrip/:slug
   projects:
     output: true
     permalink: /project/:slug
+      posts:
+    output: false
+    permalink: /roadtrip/:slug
 
 # Pages Path
 defaults:
@@ -42,14 +39,14 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 sass:
   sass_dir: _sass
