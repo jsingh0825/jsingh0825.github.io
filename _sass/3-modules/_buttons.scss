@@ -36,3 +36,20 @@
     width: 100%;
   }
 }
+
+.hero__right-hover {
+
+  padding: 20px 24px;
+}
+
+.homepage-link {
+
+  text-decoration: underline;
+
+  &:hover {
+      color: var(--brand-color);
+      // background: linear-gradient(var(--brand-color),var(--brand-color)) no-repeat bottom /100% 0%;
+      // transition: background .2s ease-in-out;
+  }
+
+}
