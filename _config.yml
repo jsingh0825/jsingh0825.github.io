@@ -26,6 +26,7 @@ collections:
     output: false
     permalink: /roadtrip/:slug
 
+
 # Pages Path
 defaults:
   - scope:
