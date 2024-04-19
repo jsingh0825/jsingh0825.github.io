@@ -63,22 +63,22 @@ var tns=function(){var t=window,Ai=t.requestAnimationFrame||t.webkitRequestAnima
   Author: meeeeeeee
   ============ */
 
-// document.addEventListener('DOMContentLoaded', function() {
-//     var imageData = imagePaths;
-//     var images = imageData.map(data => {
-//         let img = new Image();
-//         img.src = data.image;
-//         return img;
-//     });
-//     var imageElement = document.querySelector('.hero__image .profile-pic');
-//     var currentIndex = 0;
+document.addEventListener('DOMContentLoaded', function() {
+    var imageData = imagePaths;
+    var images = imageData.map(data => {
+        let img = new Image();
+        img.src = data.image;
+        return img;
+    });
+    var imageElement = document.querySelector('.hero__image .profile-pic');
+    var currentIndex = 0;
 
-//     function nextImage() {
-//         currentIndex = (currentIndex + 1) % images.length;
-//         imageElement.src = images[currentIndex].src;  // Use the preloaded image src
-//     }
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % images.length;
+        imageElement.src = images[currentIndex].src;  // Use the preloaded image src
+    }
 
-//     setInterval(nextImage, 500);
-// });
+    setInterval(nextImage, 350);
+});
 
 

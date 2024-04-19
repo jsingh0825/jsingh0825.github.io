@@ -37,19 +37,27 @@
   }
 }
 
-.hero__right-hover {
-
-  padding: 20px 24px;
-}
-
 .homepage-link {
 
   text-decoration: underline;
+  text-decoration-color: var(--brand-color);
+  text-decoration-skip: none;
+  display: inline-block;
+  background: linear-gradient(var(--brand-color), var(--brand-color)) no-repeat;
+  background-size: 100% 0%;       // Initially no underline visible
+  background-position: 0% 100%;   // Position at the bottom of the text
+  transition: background-size .2s ease-in-out, background-position .2s ease-in-out, transform .2s ease-in-out; 
 
   &:hover {
-      color: var(--brand-color);
-      // background: linear-gradient(var(--brand-color),var(--brand-color)) no-repeat bottom /100% 0%;
-      // transition: background .2s ease-in-out;
+    background-size: 100% 25%;    // Underline height of 2px
+    background-position: 0% 100%;  // Shift position slightly above the bottom
+    transform: translateY(-4px);
   }
+
+
+  // &:hover {
+  //   text-decoration: color: var(--brand-color);
+
+  // }
 
 }
