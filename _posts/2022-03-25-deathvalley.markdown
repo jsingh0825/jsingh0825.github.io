@@ -4,7 +4,6 @@ title:  "Death Valley National Park"
 description: After heading west from Nevada into California, I spent a couple days exploring Death Valley.
 date:   2022-03-25
 image:  '/images/deathvalley/deathvalley-5.jpg'
-tags:  [march]
 category: roadtrip
 ---
 

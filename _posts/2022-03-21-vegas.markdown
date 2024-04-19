@@ -4,7 +4,6 @@ title:  "The Las Vegas Valley"
 description: The plan was to head to Utah after Arizona - it was still quite cold in Bryce and Zion so I went to Nevada instead.
 date:   2022-03-21
 image:  '/images/vegas/vegas-11.jpg'
-tags:  [march]
 category: roadtrip
 ---
 

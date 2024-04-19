@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My works
+title: Projects
 description:
 ---
 <div class="container">
@@ -19,13 +19,13 @@ description:
     {% for project in site.projects reversed %}
       <article class="project col col-4 col-d-6 col-t-12">
         <div class="project__content">
-          <a href="{{ project.url }}" class="project__image">
+          <a href="{{ project.url }}" class="article__image">
             <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
           </a>
           <div class="project__info">
             <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
-            {% if project.subtitle %}
-            <div class="project__subtitle">{{ project.subtitle }}</div>
+            {% if project.description %}
+            <div class="page-description">{{ project.description }}</div>
             {% endif %}
           </div>
         </div>

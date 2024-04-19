@@ -4,7 +4,6 @@ title:  "Yosemite"
 description: After a couple of detours, I spent some time exploring Yosemite National Park.
 date:   2022-04-19
 image:  '/images/yosemite/yosemite-8.jpg'
-tags:  [april]
 category: roadtrip
 ---
 

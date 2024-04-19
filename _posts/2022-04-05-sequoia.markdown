@@ -4,7 +4,6 @@ title:  "Sequoia National Park"
 description: After Joshua Tree, I spent some time in San Diego and LA visiting friends and attending a wedding! From there I went on to Sequoia National Park.
 date:   2022-04-05
 image:  '/images/sequoia/sequoia-5.jpg'
-tags:  [april]
 category: roadtrip
 ---
 

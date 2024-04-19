@@ -4,7 +4,6 @@ title:  Phoenix & The Grand Canyon
 description: From Tucson, I drove over to Phoenix. Met up with friends and one suggested I hike the Camelback Mountain Trail, so
 date:   2022-03-14
 image:  '/images/grandcanyon/grandcanyon-6.jpg'
-tags:  [march]
 category: roadtrip
 ---
 

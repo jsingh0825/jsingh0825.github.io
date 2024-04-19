@@ -4,7 +4,6 @@ title:  "Big Sur"
 description: From Sequoia National Park, I drove across CA to San Simeon and up Highway 1 along the coast to Big Sur.
 date:   2022-04-06
 image:  '/images/bigsur/bigsur-8.jpg'
-tags:  [april]
 category: roadtrip
 ---
 
