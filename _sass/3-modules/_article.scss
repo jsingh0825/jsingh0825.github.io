@@ -6,7 +6,13 @@
 
   &:hover {
     transform: translateY(-4px);
+
+    .article__title a {
+        background-size: 100% 28%;
+      }
   }
+
+
 
   @media only screen and (max-width: $mobile) {
     margin-bottom: 32px;

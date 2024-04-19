@@ -5,6 +5,7 @@ description: After a couple of detours, I spent some time exploring Yosemite Nat
 date:   2022-04-19
 image:  '/images/yosemite/yosemite-8.jpg'
 category: roadtrip
+subtitle: may
 ---
 
 From Big Sur I headed to the Bay Area and Sacramento, where I spent some time seeing friends and exploring. I also flew to Denver for a weekend! After a busy mid-April I got back on the road and made my way to Yosemite. 

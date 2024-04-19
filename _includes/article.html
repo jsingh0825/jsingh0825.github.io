@@ -14,6 +14,10 @@
   </div>
   {% endif %}
 
+  {% if post.subtitle %}
+    <div class="project-subtitle">{{ post.subtitle }}</div>
+  {% endif %}
+
   <h2 class="article__title">
     <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
   </h2>
