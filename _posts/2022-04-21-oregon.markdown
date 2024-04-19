@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crater Lake"
-description: I listened to Rachel 
+description: text!
 date:   2022-04-19
 image:  '/images/oregon/oregon-8.jpg'
 category: roadtrip

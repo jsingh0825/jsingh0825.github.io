@@ -23,6 +23,9 @@ description:
             <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
           </a>
           <div class="project__info">
+            {% if project.subtitle %}
+            <div class="project-subtitle">{{ project.subtitle }}</div>
+            {% endif %}
             <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
             {% if project.description %}
             <div class="page-description">{{ project.description }}</div>
