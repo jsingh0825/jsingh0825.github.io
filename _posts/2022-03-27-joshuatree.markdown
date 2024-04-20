@@ -5,6 +5,7 @@ description: I camped out on a dried lake bed north of Joshua Tree (the town), a
 date:   2022-03-27
 image:  '/images/joshuatree/joshuatree-10.jpg'
 category: roadtrip
+subtitle: march
 ---
 
 I camped out on a dried lake bed north of Joshua Tree (the town), and saw yet another incredible sunset (is this a desert thing?) before spending a day exploring Joshua Tree National Park.

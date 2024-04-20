@@ -5,6 +5,7 @@ description: From Austin, I set out to explore Big Bend National Park and camp i
 date:   2022-03-07
 image:  '/images/bigbend/bigbend-10.jpg'
 category: roadtrip
+subtitle: march
 ---
 
 From Austin, I set out to explore Big Bend National Park and camp in Big Bend Ranch State Park nearby.

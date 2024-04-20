@@ -5,6 +5,7 @@ description: After Big Bend, I left Texas for New Mexico to check out White Sand
 date:   2022-03-11
 image:  '/images/whitesands/whitesands-11.jpg'
 category: roadtrip
+subtitle: march
 ---
 
 After Big Bend, I left Texas for New Mexico to check out White Sands, and then made my way over to Arizona.
