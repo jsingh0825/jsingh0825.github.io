@@ -1,10 +1,9 @@
 #-------------------------------
 # Site Settings
 title: jagj.it
-logo: '/images/pfps/logo.png'
+logo: #'/images/pfps/logo.png'
 description: Hello! I'm Jagjit.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
 
 #-------------------------------
 # Navigation Settings
