@@ -25,8 +25,15 @@ body {
   @media only screen and (max-width: $mobile) {
     font-size: 16px;
   }
-}
 
+  /* jsedit 09SEP24 adding a new border around the site - disabled for now 
+  border: 10px solid #000000; // Use your desired color variable
+  border-radius: 12px; // Adjust the radius as needed
+  margin: 2px; // Add some margin to ensure the border is visible
+  min-height: calc(100vh - 4px); // Subtract twice the margin to prevent scrollbar
+  */
+
+}
 /* jsedit 21JAN23 removing text select color since its a little clashy
 *::selection {
   color: var(--dark);
