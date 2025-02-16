@@ -1,6 +1,6 @@
-
-**/.DS_Store
+*.DS_Store
 Gemfile.lock
 _site/ 
+_jekyll_cache/
 business-card.psd
 favicon.psd

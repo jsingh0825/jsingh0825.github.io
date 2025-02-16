@@ -1,30 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-
-{% include head.html %}
-
-<body>
-
-  {% if site.data.settings.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
-
-  {% include header.html %}
-
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
-    {{ content }}
-  </main>
-  <!-- end content -->
-
-  {% if page.title == 'The Las Vegas Valley' %}
-   {% include afterdark.html %}
-  {% else %}
-    {% include footer.html %}
-  {% endif %}
-
-  <script src="{{ site.baseurl }}/js/scripts.js"></script>
-  <script src="{{ site.baseurl }}/js/common.js"></script>
-</body>
-
-</html> 
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap" rel="stylesheet">
+  </head>
+  <body class="body">
+    <div class="container">
+      <h1><a href="{{ site.url }}" class="header">jagj.it</a></h1>
+      {% include navigation.html %}
+      {{ content }}
+      {% include footer.html %}
+  </div>
+  </body>
+</html>

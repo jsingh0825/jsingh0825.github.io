@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% for item in site.data.projects %}
+    <div class="projItem">
+        <p><a href="{{ item.link }}" class="projLink"></p>{{ item.name }}</a>
+    </div>
+{% endfor %}
