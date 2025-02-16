@@ -10,10 +10,12 @@
   </head>
   <body class="body">
     <div class="container">
-      <h1><a href="{{ site.url }}" class="header">jagj.it</a></h1>
-      {% include navigation.html %}
+      <div class="header">
+        <h1><a href="{{ site.url }}" class="header">jagj.it</a></h1>
+        {% include navigation.html %}
+      </div>
       {{ content }}
       {% include footer.html %}
-  </div>
+    </div>
   </body>
 </html>

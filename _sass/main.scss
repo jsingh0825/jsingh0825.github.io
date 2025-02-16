@@ -11,10 +11,21 @@
     margin: 0 auto; 
     padding: 0 20px;
 }
+.homepage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
 .link {
     font-weight: 600;
     text-decoration: underline;
     color: black;
+}
+.pfp {
+    clip-path: circle();
+    width: 200px;
+    height: auto;
 }
 //------------------//
 
@@ -22,6 +33,13 @@
 .header {
     text-decoration: none;
     color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+    flex-wrap: wrap;
+
+
 }
 //------------------//
 
@@ -62,3 +80,17 @@ nav {
     text-decoration: wavy;
     color: black;
 }
+
+
+// responsive layout stuff  //
+@media (max-width: 768px) {
+    .header {
+        justify-content: center;
+        text-align: center;
+        gap: 0rem;
+    }
+    nav {
+        width: 100%;
+    }
+}
+//------------------------//

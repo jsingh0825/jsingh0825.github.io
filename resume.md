@@ -14,7 +14,6 @@ Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" class="link">Lin
 *Astrix Technology*, Remote
 * lorem ipsum
 
-
 **Technical Consultant – Data Migration Lead,** July 2021 – December 2021  
 *Veeva Systems*, Remote
 * Operated within cross functional implementation teams to plan, execute, and evaluate successful data migrations  
