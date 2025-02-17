@@ -1,6 +1,6 @@
-- name: Project 3
-  link: /project3
-- name: Armadillo Club
-  link: /armadillo
-- name: Roadtrip 2022
+- name: roadtrip 2022
   link: /roadtrip
+  coverImg: /assets/images/road-trip-22.jpg
+- name: armadillo club
+  link: /armadillo
+  coverImg: /assets/images/IMG_1579.jpg

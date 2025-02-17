@@ -2,8 +2,10 @@
 layout: default
 ---
 
-{% for item in site.data.projects %}
-    <div class="projItem">
-        <p><a href="{{ item.link }}" class="projLink"></p>{{ item.name }}</a>
+{% for item in site.data.projects reversed %}
+    <div href="{{item.link}}" class="projItem">
+        <!-- <p><a href="{{ item.link }}" class="projLink"></p>{{ item.name }}</a> -->
+        <a href="{{ item.link }}" class="projLink">{{ item.name }}</a>
+        <img src="{{ item.coverImg }}" href="{{item.link}}" class="projImg">
     </div>
 {% endfor %}

@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: resume
 ---
 
-Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" class="link">Linkedin!</a>
+<p class="topline">Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" >Linkedin!</a></p>
 
 ## Experience
 
