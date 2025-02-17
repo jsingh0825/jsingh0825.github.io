@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-<p class="topline">Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" >Linkedin!</a></p>
+<p class="topline">Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" class="link">Linkedin!</a></p>
 
 ## Experience
 

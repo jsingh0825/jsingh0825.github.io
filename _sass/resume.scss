@@ -3,9 +3,13 @@
     
     p.topline {
         text-align: center; 
+        font-style: italic;
+
+        a {
+            text-decoration: none;
+        }
     }
-    
-    
+
     h2 {
         overflow: hidden;
       }
