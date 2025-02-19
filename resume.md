@@ -4,12 +4,11 @@ layout: resume
 
 <p class="topline">Find me on <a href="https://www.linkedin.com/in/jagjit-singh1/" class="link">Linkedin!</a></p>
 
+Below is an overview of my career so far. I want to use this space to tell the story of my career more than provide a bullet list of accomplishments and capabilities - if you would like to see a more traditional resume, click <a href="https://www.google.com/">here</a> for a PDF.
+
 ## Experience
 
 **Associate Deliver Manager,** August 2024 - Present  
-*Astrix Technology*, Remote
-* lorem ipsum
-
 **Informatics Engineer,** August 2022 – August 2024  
 *Astrix Technology*, Remote
 * lorem ipsum
@@ -28,26 +27,22 @@ layout: resume
 * Evaluated obsolete laboratory systems for decommissioning as part of a systems rationalization project to reduce infrastructure overhead and support costs   
 * Collaborated with business, IT, and data engineering teams to ensure timely and compliant archival of aging systems
 
+My (first) stint at Astrix brought me an increased 
+
 **Software Developer Senior Analyst,** September 2016 – October 2019  
 *Accenture (formerly LabAnswer)*, Orlando, Florida
-* Led requirements gathering sessions with subject matter experts to realize business processes  
-* Created and managed user acceptance testing scripts to confirm system functionality  
-* Constructed and delivered user training on new functionality in hands-on coaching sessions  
-* Designed monthly analytics reports on team utilization and effort hour breakdown, and presented findings to client leadership  
-* Implemented agile project management tool to track development status, manage backlog requirements, and expedite client document approvals
+
+Accenture served as a launchpad into my career as a consultant. Over 3 years, I worked with a variety of clients in the consumer product and life sciences spaces, primarily focused on enhancing their existing LIMS systems. I contributed across every step of the SDLC, from project planning and requirements gathering to development work, user acceptance testing, and production deployments & hypercare. I also spent time as a support specialist, triaging production issues and providing solutions to both configuration and code-level issues. 
+
+The most enjoyable takeaway from my time at Accenture was the realization that I delighted in working with scientists and other business stakeholders immensely. Whether it was learning their gripes about the LIMS user experience, demoing enhancements, or training on new functionality, I found joy in the collaborations I participated in. 
 
 **Clinical Staffing Specialist – Market Lead,** May 2015 – September 2016  
-*Your Home Advantage, Division of Humana at Home*, Deerfield Beach, Florida
-* Performed population analytics on health plan membership to distribute resources   
-* Utilized personnel management platform to enact population analytics insights  
-* Demonstrated population findings and outreach concepts with management to refine business initiatives 
+*Humana at Home*, Deerfield Beach, Florida
+
+At Humana, I acted as a staffing specialist for contract nurses completing in-home health assessments. As part of this role, I performed analytics on health plan membership across multiple states to understand resourcing requirements and optimize nurse placement and routing. Seeing my efforts pay off in the form of positive health outcomes for the patients being served was heartwarming, and solidified my desire to pursue a career in the life science space.
 
 ## Education	
-***Bachelor of Science in Mechanical Engineering,*** May 2015  
-University of Florida, Gainesville, Florida 
+***Bachelor of Science in Mechanical Engineering,*** Spring 2015  
+University of Florida
 
-## Skills
-* LabWare LIMS  
-* Oracle SQL  
-* Atlassian JIRA  
-* Microsoft Word, Excel, Powerpoint
+story of college
